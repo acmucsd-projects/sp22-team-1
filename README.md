@@ -13,6 +13,8 @@
 
 If you're just getting started and want to learn the necessary tools going into this project, check out [resources.md](https://github.com/alckasoc/sp22-team-1/blob/main/resources.md)!
 
+[Here](https://docs.google.com/document/d/1fR_2fdA3ThpnHaaWM1fdS_4WlcK_pCIKo_jzQkLclas/edit) is the ongoing document of project ideas.
+
 ## 2. Getting Started
 
 ## 3. Structure
