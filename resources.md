@@ -17,7 +17,7 @@ Hey y'all. Vincent here. I'll keep this document short (I'll need water just fro
 
 # 2. Resources 📘
 
-Deep Learning:
+__Deep Learning__
 
 - [Deep Learning Crash Course for Beginners
 ](https://www.youtube.com/watch?v=VyWAvY2CF9c) by freeCodeCamp covers just the conceptual basics of deep neural networks.
@@ -31,6 +31,14 @@ Deep Learning:
 - [PyTorch Tutorials](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) by Aladdin Persson offers a code-centric guide to learning deep learning with the PyTorch framework.
 
 For those who are a bit rusty (or are new to deep learning), definitely check out deeplizard's channel (which covers both code and concepts). Specifically, check out deeplizard's series [Deep Learning Fundamentals - Intro to Neural Networks](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) for the conceptual overview of deep learning and check out [TensorFlow - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) to learn the deep learning library TensorFlow.
+
+__Mask R-CNN__
+
+- [The original paper](https://arxiv.org/pdf/1703.06870.pdf)
+- [Mask R-CNN Explanation by CodeEmporium](https://www.youtube.com/watch?v=4tkgOzQ9yyo)
+- [viso.ai Mask R-CNN Blog](https://viso.ai/deep-learning/mask-r-cnn/)
+
+None of these are comprehensive. Cross compare them, experiment with Mask R-CNN prebuilt code (which you won't use in the actual project), and lastly Google more if you ever find yourself lost.
 
 # 3. Advice 🤔
 
