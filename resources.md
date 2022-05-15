@@ -32,6 +32,33 @@ __Deep Learning__
 
 For those who are a bit rusty (or are new to deep learning), definitely check out deeplizard's channel (which covers both code and concepts). Specifically, check out deeplizard's series [Deep Learning Fundamentals - Intro to Neural Networks](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) for the conceptual overview of deep learning and check out [TensorFlow - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=tDaGT4N4aCA&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) to learn the deep learning library TensorFlow.
 
+__Faster R-CNN__
+
+There is a family of special CNN architectures suited for the task of object detection called __R-CNNs__ or __Region-based CNN__. <br>
+* R-CNN
+* Fast R-CNN
+* Faster R-CNN
+
+As you can probably tell from the names of these R-CNNs, each one is _faster_ in terms of speed than the previous one. I will provide mostly resources for 
+Faster R-CNN, but I will also have additional resources on R-CNN and Fast R-CNN. <br>
+
+_R-CNN_
+- [analytics-vidhya blog](https://medium.com/analytics-vidhya/region-based-convolutional-neural-network-rcnn-b68ada0db871)
+- [paperswithcode](https://paperswithcode.com/method/r-cnn)
+- [towardsdatascience blog](https://towardsdatascience.com/object-detection-explained-r-cnn-a6c813937a76)
+
+_Fast R-CNN_
+- [paperswithcode](https://paperswithcode.com/paper/fast-r-cnn)
+
+_Faster R-CNN_
+- [paperswithcode](https://paperswithcode.com/method/faster-r-cnn) is a website for machine learning papers and code. In the link I provided, it gives the paper and some popular repos that implement the faster r-cnn.
+- [chenyuntc's implementation](https://github.com/chenyuntc/simple-faster-rcnn-pytorch/tree/master/model) on a Simplified (Clean Code) Version of the Faster R-CNN. 
+- [Paperspace blog](https://blog.paperspace.com/faster-r-cnn-explained-object-detection/) on Faster R-CNN is pretty thorough (covers also R-CNN and Fast R-CNN).
+- [analytics-vidhya blog](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/#:~:text=I%20have%20summarized%20below%20the%20steps%20followed%20by,proposals%20to%20the%20same%20size%20More%20items...%20) is really thorough (covers r-CNN and Fast R-CNN).
+
+This list is not comprehensive. When in doubt, google or search on YouTube! But these were the resources I found that I thought were pretty thorough.
+
+
 __Mask R-CNN__
 
 - [The original paper](https://arxiv.org/pdf/1703.06870.pdf)
